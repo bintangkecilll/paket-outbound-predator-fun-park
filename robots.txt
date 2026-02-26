@@ -1,0 +1,24 @@
+# robots.txt - Paket Outbound Predator Fun Park
+# https://paketoutboundpredatorfunpark.com
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /blog.html
+Allow: /panduan-lengkap-outbound-predator-fun-park.html
+Allow: /manfaat-team-building-untuk-perusahaan.html
+Allow: /outbound-anak-seru-dan-edukatif-predator-fun-park.html
+Allow: /tips-memilih-paket-outbound-yang-tepat.html
+Allow: /wisata-edukasi-outbound-sekolah-predator-fun-park.html
+Allow: /img/
+Allow: /css/
+Allow: /js/
+
+Disallow: /tmp/
+Disallow: /*.json$
+
+# Sitemap
+Sitemap: https://paketoutboundpredatorfunpark.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 5

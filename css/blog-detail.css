@@ -1,0 +1,132 @@
+/* ============================================
+   BLOG DETAIL - ADDITIONAL STYLES
+   ============================================ */
+
+/* Sidebar */
+.sidebar-widget {
+    background: var(--white);
+    border-radius: var(--radius-md);
+    padding: 24px;
+    margin-bottom: 24px;
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--gray-200);
+}
+
+.sidebar-widget h4 {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--gray-200);
+}
+
+.sidebar-recent-post {
+    display: flex;
+    gap: 12px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--gray-100);
+}
+
+.sidebar-recent-post:last-child {
+    border-bottom: none;
+}
+
+.sidebar-recent-post img {
+    width: 70px;
+    height: 55px;
+    border-radius: var(--radius-sm);
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.sidebar-recent-post h5 {
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-bottom: 4px;
+    line-height: 1.4;
+}
+
+.sidebar-recent-post h5 a {
+    color: var(--dark);
+}
+
+.sidebar-recent-post h5 a:hover {
+    color: var(--primary);
+}
+
+.sidebar-recent-post .post-date {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+}
+
+.sidebar-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.sidebar-tags a {
+    display: inline-block;
+    background: var(--gray-100);
+    color: var(--gray-700);
+    padding: 4px 14px;
+    border-radius: var(--radius-xl);
+    font-size: 0.8rem;
+    font-weight: 500;
+    transition: var(--transition);
+}
+
+.sidebar-tags a:hover {
+    background: var(--primary);
+    color: var(--white);
+}
+
+.sidebar-cta {
+    background: var(--gradient-primary);
+    color: var(--white);
+    border-radius: var(--radius-md);
+    padding: 28px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.sidebar-cta h4 {
+    color: var(--white);
+    border-bottom: none;
+    margin-bottom: 8px;
+}
+
+.sidebar-cta p {
+    font-size: 0.88rem;
+    opacity: 0.9;
+    margin-bottom: 16px;
+}
+
+.sidebar-cta .btn-sidebar-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--white);
+    color: var(--primary);
+    font-family: var(--font-heading);
+    font-weight: 700;
+    padding: 10px 24px;
+    border-radius: var(--radius-xl);
+    transition: var(--transition);
+}
+
+.sidebar-cta .btn-sidebar-cta:hover {
+    transform: scale(1.05);
+}
+
+/* Reading Progress Bar */
+.reading-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 3px;
+    background: var(--gradient-secondary);
+    z-index: 9999;
+    transition: width 0.1s linear;
+    width: 0;
+}

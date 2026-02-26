@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://paketoutboundpredatorfunpark.com/</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://paketoutboundpredatorfunpark.com/img/Paket%20Outbound%20Batu%20Malang%20(55)_11zon.webp</image:loc>
+      <image:title>Paket Outbound Predator Fun Park Batu Malang</image:title>
+      <image:caption>Kegiatan outbound seru di Predator Fun Park Batu Malang</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog Page -->
+  <url>
+    <loc>https://paketoutboundpredatorfunpark.com/blog.html</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Article 1: Panduan Lengkap Outbound -->
+  <url>
+    <loc>https://paketoutboundpredatorfunpark.com/panduan-lengkap-outbound-predator-fun-park.html</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://paketoutboundpredatorfunpark.com/img/Paket%20Outbound%20Batu%20Malang%20(55)_11zon.webp</image:loc>
+      <image:title>Panduan Lengkap Outbound di Predator Fun Park</image:title>
+    </image:image>
+  </url>
+
+  <!-- Article 2: Manfaat Team Building -->
+  <url>
+    <loc>https://paketoutboundpredatorfunpark.com/manfaat-team-building-untuk-perusahaan.html</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://paketoutboundpredatorfunpark.com/img/Paket%20Outbound%20Batu%20Malang%20(56)_11zon.webp</image:loc>
+      <image:title>Manfaat Team Building untuk Perusahaan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Article 3: Outbound Anak -->
+  <url>
+    <loc>https://paketoutboundpredatorfunpark.com/outbound-anak-seru-dan-edukatif-predator-fun-park.html</loc>
+    <lastmod>2026-02-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://paketoutboundpredatorfunpark.com/img/Paket%20Outbound%20Batu%20Malang%20(57)_11zon.webp</image:loc>
+      <image:title>Outbound Anak Seru dan Edukatif</image:title>
+    </image:image>
+  </url>
+
+  <!-- Article 4: Tips Memilih Paket -->
+  <url>
+    <loc>https://paketoutboundpredatorfunpark.com/tips-memilih-paket-outbound-yang-tepat.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://paketoutboundpredatorfunpark.com/img/Paket%20Outbound%20Batu%20Malang%20(58)_11zon.webp</image:loc>
+      <image:title>Tips Memilih Paket Outbound yang Tepat</image:title>
+    </image:image>
+  </url>
+
+  <!-- Article 5: Wisata Edukasi Sekolah -->
+  <url>
+    <loc>https://paketoutboundpredatorfunpark.com/wisata-edukasi-outbound-sekolah-predator-fun-park.html</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://paketoutboundpredatorfunpark.com/img/Paket%20Outbound%20Batu%20Malang%20(59)_11zon.webp</image:loc>
+      <image:title>Wisata Edukasi dan Outbound Sekolah</image:title>
+    </image:image>
+  </url>
+
+</urlset>
